@@ -1,4 +1,4 @@
-import { BookData } from "@/pages/api/books";
+import { BookData } from "@/types/book";
 import Link from "next/link";
 import style from "./book-item.module.css";
 
